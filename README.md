@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sugam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SugamAcharya&theme=algolia&show_icons=true)](https://github.com/SugamAcharya/github-readme-stats)
+
 
 [![Sugam's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SugamAcharya&theme=algolia&show_icons=true)](https://github.com/SugamAcharya/github-readme-stats)
